@@ -1,3 +1,4 @@
-pandas==1.5.3
-lxml==4.9.3
-openpyxl==3.1.2
+pandas
+openpyxl
+PyQt5
+lxml
